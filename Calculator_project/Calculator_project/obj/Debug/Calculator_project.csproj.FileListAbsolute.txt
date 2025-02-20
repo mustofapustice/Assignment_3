@@ -1,0 +1,10 @@
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe.config
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\bin\Debug\Calculator_project.pdb
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.AssemblyReference.cache
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Form1.resources
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Properties.Resources.resources
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.GenerateResource.cache
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.CoreCompileInputs.cache
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.exe
+E:\OSTAD(full stack development with asp.net)\Assignment3\Calculator_project\Calculator_project\obj\Debug\Calculator_project.pdb
